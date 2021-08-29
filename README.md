@@ -16,6 +16,6 @@ sudo python3 ddoslink.py
 
 ## 🔩To-do:
 - [ ] Optimization Code.
-- [ ] Add Proxys list (and write code for proxy).
+- [ ] Add Proxies list (and write code for proxy).
 
            
